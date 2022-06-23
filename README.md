@@ -1,2 +1,2 @@
-# primeiro-desafio-de-condigo-github
-desafio de projeto sobre Git/Github
+#  desafio de projeto sobre git/github da DIO
+Repositorio criado para o Desafio de projeto.
